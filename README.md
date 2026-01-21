@@ -81,8 +81,8 @@ All visualizations are designed to be **business-friendly and actionable**.
 
 ---
 
-## 👤 Author
-**Dara Sum**  
-Data Analyst  
+## 🌟 About Me
 
-🔗 LinkedIn: [https://www.linkedin.com/in/darasum-data](https://www.linkedin.com/in/darasum-data)
+Hi there! I'm **Dara Sum**, also known as **Data Analyst**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darasum-data)
